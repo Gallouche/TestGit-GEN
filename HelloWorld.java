@@ -7,4 +7,8 @@ public class HelloWorld {
 	public void Pouet(){
 		System.out.println("Pouet ! Pouet !");
 	}
+
+	public void Boom(){
+		System.out.println("BOOM !");
+	}
 }
