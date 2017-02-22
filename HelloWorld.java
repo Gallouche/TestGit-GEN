@@ -1,10 +1,8 @@
 public class HelloWorld {
 	
-	public static void main (String... args){
-		System.out.printf("Hello World !");
-		Pouet();
+	public static void main (String[] args){
+		System.out.printf("HelloWorld !");
 	}
-	public void Pouet(){
-		System.out.println("Pouet ! Pouet !");
-	}
+
+	
 }
