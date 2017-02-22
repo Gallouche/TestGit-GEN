@@ -4,5 +4,8 @@ public class HelloWorld {
 		System.out.printf("HelloWorld !");
 	}
 
-	
+	public void Boom(){
+		System.out.println("BOOM !");
+	}
+
 }
